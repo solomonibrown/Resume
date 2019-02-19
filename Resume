@@ -1,0 +1,114 @@
+<style>
+h1 {text-align: center}
+.links{text-align: center}
+.info{text-align: center}
+h2{color:#FF0000}
+
+</style>
+</head>
+<body>
+
+<div class="links"><a href="#edu">Education</a>-
+<a href="#crk">Relevant Coursework</a> -
+<a href="#awd">Honors And Awards</a>-
+<a href="#exp">Work Experience</a>-
+<a href="#act">Extracurricular Activities</a>-
+<a href="#skil">Skills</a>
+</div>
+<h1>
+Solomon Brown
+</h1>
+<div class="info"> 202-856-8827 - 1761 Underwood Road, Sykesville, MD, 21784 - <a href="mailto:solomonibrown@gmail.com"> solomonibrown@gmail.com </a>
+</div>
+
+<h2 id="edu">
+EDUCATION
+</h2>
+<p>
+<strong>Howard University, </strong>Washington, DC <br>
+Expected Graduation: Dec 2019 <br> 
+B.B.A. in Computer Information Systems<br>
+<strong>GPA: 2.6  </strong>   
+</p>
+<hr>
+<h2 id="crk">
+RELEVANT COURSEWORK
+</h2>
+<p>
+<ul>
+<li>Business Problem Solving</li>
+<li>Management of Information Systems</li>
+<li>Database Management</li>
+<li>Accounting</li>
+<li>Business Management</li>
+
+</ul>
+</p>
+<hr>
+<h2 id="awd">
+HONORS AND AWARDS
+</h2>
+<ul>
+<li>Gold Honor Roll </li>
+<li>Fall 2014 Dean's List</li>
+</ul>
+<hr>
+<h2 id="exp">
+WORK EXPERIENCE
+</h2>
+<p>
+
+<strong>Medsys2,</strong> Systems Manager- Randallstown, MD	
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+May 2015 – Present
+<ul>
+<li>Customize medical records</li>
+<li>Code electronic medical records software</li>
+<li>Market software</li>
+</ul>
+<strong>Maryland Medical Rehab,</strong> Secretary – Home Office, Sykesville, MD
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ September 2013 – Present
+ <ul>
+ <li>Managed over 1000 medical files</li>
+ <li>Scan files into the documentation system</li>
+ <li>Organize data in the documentation system</li>
+ <li>Troubleshoot server errors within the databases</li>
+ </ul>
+</p>
+<strong>Howard University,</strong> Admissions System Administrator- Washington, DC &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+October 2016 – 2018
+<li>Sort and Organize Applications</li>
+<li>Process Applications Into Database</li>
+<br>
+<hr>
+<h2 id="act">
+EXTRACURRICULAR ACTIVITIES
+</h2>
+<ul>
+<li>CEO Space Member &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ July2015- Present </li>
+<li>Howard University Cross-Country Team  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+August 2014- 2018    </li>
+<li>Howard University Track and Field Team 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+August 2014- 2018
+</li>
+<li>Taste of DC (Volunteer)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+October 9, 2016 </li>
+</ul>
+<hr>
+<h2 id="skil">
+SKILLS
+</h2>
+<ul>
+<li>Proficient with Microsoft Word, Excel, PowerPoint</li>
+<li>Java language</li>
+<li>Business communications</li>
+<li>Microsoft SQL Server</li>
+<li>HTML / CSS</li>
+</ul>
+</body>
+
+</html>
